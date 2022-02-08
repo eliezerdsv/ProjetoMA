@@ -17,6 +17,7 @@ public class Main {
     public static void main(String [] args) throws ParseException{
         TelaLogin  tl = new TelaLogin();
         tl.setVisible(true);
+        //Estive aqui
         alguma coisa aki;
         
     }
